@@ -1,10 +1,23 @@
+@import url(<link href="https://fonts.googleapis.com/css2?family=Gotu&family=Raleway&display=swap");
 html {
   font-size: 12px
 }
 body {
     font-family: "Gotu", sans-serif;
+  color: #C120AE; 
   line-height: 1.5;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway",serif;
+}
+img {
+  height: 200px;
+  float: center;
+  padding: 18px;
+  border: 1px solid #C120AE;
+  padding: 2em;
+}
+
 header {
   background-color:#C120AE;
   color:white;
