@@ -19,24 +19,54 @@ img {
 }
 
 header {
-  background-color:#C120AE;
-  color:white;
-  text-align:center;
+  background-color: #C120AE;
+  color: white;
+  text-align: center;
+  padding: 1.5em;
 }
 container {
-  background-color:white;
-  width:800px;
-  margin-left:auto;
-  margin-right:auto;
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 content {
-  padding:10px;
+  padding: 10px;
 }
 main {
-  width=600px;
-  float=right;
+  padding: 2em;
+  width= 600px;
+  float= right;
 }
-footer {
-  clear=both;
-  padding=10px;
+header, main, article, section {
+  background-color: #EF1398;
+}
+footer,aside {
+  clear= both;
+  padding= 10px;
+  color: black;
+  background-color: white;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color:pink;
+}
+a:active {
+  color:purple;
+}
+a:hover {
+  color:white
+}
+
+* {box-sizing: border-box;}
+.wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+main aside ul {
+  list-style: none;
+  margin: 1.5;
+  padding: 2;
 }
