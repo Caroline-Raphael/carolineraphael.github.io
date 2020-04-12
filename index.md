@@ -11,17 +11,13 @@
 </head>
 
 <body>
-	<div id="container">
-		<div id="header">
-			<h1>Caroline Raphael</h1>
-		</div>
-	<div id="content">
-		<div id="main">
-		</div>
-		</div>
-	<div id="footer">
-		</div> 
-	
+<div class="wrapper">
+	<header class="main-head">
+		<h1> CAROLINE RAPHAEL</h1>
+	</header>
+
+	<aside class="main-aside">
+		<h3>SKILLS</h3>
 <table>
 <tr>
 	<th><em>Versatile Communication Skills</em></th>
@@ -29,6 +25,8 @@
 	<th><em>Wide Range of Experience</em></th>
 </tr>
 </table>
+	</aside>
+	<div class="img">
 <img src="CSR-resume.jpg" alt="Caroline Raphael">
 <h6>Photo By: Arleigh Curry</h6>
 <header>
@@ -48,7 +46,8 @@
 </table>
 	</nav>
 	</header>
-<main>
+	</div>
+<main class="content">
 <section>
 <h3>My Projects</h3>
 <aside>
@@ -88,11 +87,12 @@
 	<li>Intern (seasonal employment simultaneous with high school studies), 2016 - 2018</li>
 	</ul>
 	<p>Worked as an intern for <strong>PAVE</strong> and led the Healthy Relationships Task Force for students in Arlington. I gave talks for <strong>PAVE</strong> to fellow students about sexual assault awareness and prevention, coordinated and led events, and launched social media campaigns.</p>
-	</article>
-<footer>
+</article>
+	</main>
+<footer class="main-footer">
 	<h6><strong><em>All rights belong to Caroline Raphael.</em></strong></h6>
 	</footer>
 	
-</main>
+	</div>
 </body>
 </html>
