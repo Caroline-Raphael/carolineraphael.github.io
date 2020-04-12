@@ -3,7 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<!-- <title>Caroline Raphael</title> -->
-	<link rel="stylesheet" type="text/css" href="CSS/style.css"/> 
+	<link href="https://fonts.googleapis.com/css2?family=Gotu&family=Raleway&display=swap" rel="stylesheet">
+	<link href=css/style.css" rel="stylesheet" />
 <!--<style>-->
 <!--td, th { border: 1px solid #CCC; }-->
 <!--table {border: 1px solid black; }-->
