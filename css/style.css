@@ -39,7 +39,7 @@ main {
   float= right;
 }
 header, main, article, section {
-  background-color: #EF1398;
+  background-color: #FBF1FA;
 }
 footer,aside {
   clear= both;
@@ -51,13 +51,13 @@ a:link {
   color: black;
 }
 a:visited {
-  color:pink;
+  color:black;
 }
 a:active {
-  color:purple;
+  color:black;
 }
 a:hover {
-  color:white
+  color:black
 }
 
 * {box-sizing: border-box;}
