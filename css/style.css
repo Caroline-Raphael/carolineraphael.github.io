@@ -42,13 +42,13 @@ img {
 
 header {
   background-color: #C120AE;
-  color: white;
+  color: black;
   text-align: center;
   padding: 1.5em;
 }
 
 container {
-  background-color: white;
+  background-color: black;
   width: 800px;
   margin-left: auto;
   margin-right: auto;
